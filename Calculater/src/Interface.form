@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Interface">
+  <grid id="27dc6" binding="CalInterface" layout-manager="GridLayoutManager" row-count="5" column-count="5" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="594" height="400"/>
+    </constraints>
+    <properties>
+      <background color="-13033407"/>
+      <foreground color="-11486391"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="5fe69" class="javax.swing.JButton" binding="Button1">
+        <constraints>
+          <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-12501198"/>
+          <font name="Elephant" size="14" style="1"/>
+          <foreground color="-14115141"/>
+          <text value="3"/>
+        </properties>
+      </component>
+      <component id="86de1" class="javax.swing.JButton" binding="Button2">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-12501198"/>
+          <font name="Elephant" size="14" style="1"/>
+          <foreground color="-14115141"/>
+          <text value="5"/>
+        </properties>
+      </component>
+      <component id="2b9f9" class="javax.swing.JButton" binding="Button3">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-12501198"/>
+          <font name="Elephant" size="14" style="1"/>
+          <foreground color="-14115141"/>
+          <text value="2"/>
+        </properties>
+      </component>
+      <component id="4cc8d" class="javax.swing.JButton" binding="Button4">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-12501198"/>
+          <font name="Elephant" size="14" style="1"/>
+          <foreground color="-14115141"/>
+          <text value="4"/>
+        </properties>
+      </component>
+      <component id="6f699" class="javax.swing.JButton" binding="Button5">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-12501198"/>
+          <font name="Elephant" size="14" style="1"/>
+          <foreground color="-14115141"/>
+          <text value="1"/>
+        </properties>
+      </component>
+      <component id="74228" class="javax.swing.JButton" binding="Button6">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-12501198"/>
+          <font name="Elephant" size="14" style="1"/>
+          <foreground color="-14115141"/>
+          <text value="7"/>
+        </properties>
+      </component>
+      <component id="34a94" class="javax.swing.JButton" binding="Button7">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-12501198"/>
+          <font name="Elephant" size="14" style="1"/>
+          <foreground color="-14115141"/>
+          <text value="0"/>
+        </properties>
+      </component>
+      <component id="91803" class="javax.swing.JButton" binding="Button8">
+        <constraints>
+          <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-12501198"/>
+          <font name="Elephant" size="14" style="1"/>
+          <foreground color="-4605086"/>
+          <text value="."/>
+        </properties>
+      </component>
+      <component id="bed2b" class="javax.swing.JButton" binding="Button9">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-12501198"/>
+          <font name="Elephant" size="14" style="1"/>
+          <foreground color="-14115141"/>
+          <text value="8"/>
+        </properties>
+      </component>
+      <component id="d6649" class="javax.swing.JButton" binding="Button10">
+        <constraints>
+          <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-13158591"/>
+          <font name="Elephant" size="14" style="1"/>
+          <foreground color="-4516955"/>
+          <text value="+"/>
+        </properties>
+      </component>
+      <component id="e6dc0" class="javax.swing.JButton" binding="Button11">
+        <constraints>
+          <grid row="1" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-13158591"/>
+          <font name="Elephant" size="14" style="1"/>
+          <foreground color="-4516955"/>
+          <text value="-"/>
+        </properties>
+      </component>
+      <component id="227e0" class="javax.swing.JButton" binding="Button12">
+        <constraints>
+          <grid row="2" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-13158591"/>
+          <font name="Elephant" size="14" style="1"/>
+          <foreground color="-4516955"/>
+          <text value="/"/>
+        </properties>
+      </component>
+      <component id="1e9e" class="javax.swing.JButton" binding="Button13">
+        <constraints>
+          <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-12501198"/>
+          <font name="Elephant" size="14" style="1"/>
+          <foreground color="-14115141"/>
+          <text value="6"/>
+        </properties>
+      </component>
+      <component id="236c6" class="javax.swing.JButton" binding="Button14">
+        <constraints>
+          <grid row="3" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-12501198"/>
+          <font name="Elephant" size="14" style="1"/>
+          <foreground color="-14115141"/>
+          <text value="9"/>
+        </properties>
+      </component>
+      <component id="d5ae9" class="javax.swing.JButton" binding="Button15">
+        <constraints>
+          <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-12501198"/>
+          <font name="Elephant" size="14" style="1"/>
+          <foreground color="-4506810"/>
+          <text value="C"/>
+        </properties>
+      </component>
+      <component id="95b06" class="javax.swing.JButton" binding="Button16">
+        <constraints>
+          <grid row="3" column="3" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-13158591"/>
+          <font name="Elephant" size="14" style="1"/>
+          <foreground color="-4482517"/>
+          <hideActionText value="false"/>
+          <text value="="/>
+        </properties>
+      </component>
+      <component id="f9e1" class="javax.swing.JButton" binding="Button17">
+        <constraints>
+          <grid row="2" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-13158591"/>
+          <font name="Elephant" size="14" style="1"/>
+          <foreground color="-4516955"/>
+          <text value="*"/>
+        </properties>
+      </component>
+      <component id="6dc83" class="javax.swing.JTextField" binding="TextField">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-12696502"/>
+          <font name="JetBrains Mono" size="20" style="1"/>
+          <foreground color="-5000005"/>
+          <text value=""/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
